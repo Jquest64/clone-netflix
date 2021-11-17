@@ -1,4 +1,4 @@
-# **Projeto de desafio de clone do site da Netflix ** #
+#Projeto de desafio de clone do site da Netflix#
 
 ## Olá! seja bem-vindo, ao meu desafio de um projeto de desenvolvimento de um site😍 ##
 
